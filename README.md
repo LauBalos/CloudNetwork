@@ -6,14 +6,14 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML files may be used to install only certain pieces of it, such as Filebeat.
 
-  - ansible-playbook.yml
-  - install-ELK.yml
+  - [ansible-playbook.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/ansible-playbook.yml)
+  - [install-ELK.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/install-ELK.yml)
   - [ansible-config.cfg](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/ansible-config.cfg)
-  - ansible-hosts.txt
-  - filebeat-playbook.yml
-  - filebeat-config.yml
-  - metricbeat-playbook.yml
-  - metricbeat-config.yml
+  - [ansible-hosts.txt](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/ansible-hosts.txt)
+  - [filebeat-playbook.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/filebeat-playbook.yml)
+  - [filebeat-config.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/filebeat-config.yml)
+  - [metricbeat-playbook.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/metricbeat-playbook.yml)
+  - [metricbeat-config.yml](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/metricbeat-config.yml)
 
 This document contains the following details:
 - Description of the Topology
