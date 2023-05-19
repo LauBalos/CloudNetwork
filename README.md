@@ -8,7 +8,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - ansible-playbook.yml
   - install-ELK.yml
-  - ![ansible-config.cfg](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/ansible-config.cfg)
+  - [ansible-config.cfg](https://github.com/LauBalos/CloudNetwork/blob/main/Ansible/ansible-config.cfg)
   - ansible-hosts.txt
   - filebeat-playbook.yml
   - filebeat-config.yml
