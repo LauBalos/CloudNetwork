@@ -52,8 +52,8 @@ The machines on the internal network are not exposed to the public Internet.
 Only the JumpBox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
 - 40.78.45.132
 
-Machines within the network can only be accessed by Private IP Addresses.
-- Which machine did you allow to access your ELK VM? What was its IP address?
+Machines within the network can only be accessed by SSH.
+- Only the Jumpbox is allowed to access the ELK Server
 	- JumpBox VM: 10.0.0.4, SSH Port: 22
 
 A summary of the access policies in place can be found in the table below.
